@@ -1,0 +1,6 @@
+langchain
+chromadb
+openai
+llama-index
+python-dotenv
+xmltodict
